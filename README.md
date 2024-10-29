@@ -21,11 +21,19 @@
 <strong>Задание № 20: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/20.png)
 <strong>Задание № 21: </strong>
 ![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/21.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/21.2.jpg)
-<strong>Задание № 22: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/22.jpg)
-<strong>Задание № 23: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/23.jpg)
-<strong>Задание № 24: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/24.jpg)
-<strong>Задание № 25: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/25.jpg)
+<strong>Задание № 22: </strong>
+![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/22.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/22.2.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/22.3.jpg)
+<strong>Задание № 23: </strong>
+![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/23.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/23.2.jpg)
+<strong>Задание № 24: </strong>
+![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/24.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/24.2.jpg)
+<strong>Задание № 25: </strong>
+![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/25.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/25.2.jpg)
 <strong>Задание № 26: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/26.jpg)
-<strong>Задание № 27: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/27.jpg)
-<strong>Задание № 28: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/28.jpg)
-<strong>Задание № 29: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/29.jpg)
+<strong>Задание № 27: </strong>
+![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/27.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/27.2.jpg)
+<strong>Задание № 28: </strong>
+![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/28.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/28.2.jpg)
+<strong>Задание № 29: </strong>
+![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/29.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/29.2.jpg)
+
