@@ -19,7 +19,8 @@
 <strong>Задание № 18: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/18.png)
 <strong>Задание № 19: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/19.png)
 <strong>Задание № 20: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/20.png)
-<strong>Задание № 21: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/21.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/21.2.jpg)
+<strong>Задание № 21: </strong>
+![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/21.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/21.2.jpg)
 <strong>Задание № 22: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/22.jpg)
 <strong>Задание № 23: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/23.jpg)
 <strong>Задание № 24: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/24.jpg)
