@@ -1,21 +1,36 @@
 # dartpract-3
 <strong>Задание № 1: </strong>Создание простого класса
 ![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/1.png)
-<strong>Задание № 2: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/2.png)
-<strong>Задание № 3: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/3.png)
-<strong>Задание № 4: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/4.png)
-<strong>Задание № 5: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/5.png)
-<strong>Задание № 6: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/6.png)
-<strong>Задание № 7: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/7.png)
-<strong>Задание № 8: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/8.png)
-<strong>Задание № 9: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/9.png)
-<strong>Задание № 10: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/10.png)
-<strong>Задание № 11: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/11.png)
-<strong>Задание № 12: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/12.png)
-<strong>Задание № 13: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/13.png)
-<strong>Задание № 14: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/14.png)
-<strong>Задание № 15: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/15.png)
-<strong>Задание № 16: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/16.png)
+<strong>Задание № 2: </strong>
+Использование методов класса![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/2.png)
+<strong>Задание № 3: </strong>
+Наследие классов![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/3.png)
+<strong>Задание № 4: </strong>
+Абстрактные классы и методы![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/4.png)
+<strong>Задание № 5: </strong>
+Интерфейсы![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/5.png)
+<strong>Задание № 6: </strong>
+Использование статических методов и свойств![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/6.png)
+<strong>Задание № 7: </strong>
+Использование геттеров и сеттеров![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/7.png)
+<strong>Задание № 8: </strong>
+Использование фабричных конструкторов![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/8.png)
+<strong>Задание № 9: </strong>
+Использование перечислений enum![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/9.png)
+<strong>Задание № 10: </strong>
+Использование mixins![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/10.png)
+<strong>Задание № 11: </strong>
+Использование операторов is для проверки типа объекта![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/11.png)
+<strong>Задание № 12: </strong>
+Использование операторов as для приведения типа![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/12.png)
+<strong>Задание № 13: </strong>
+Использование оператораь?? для проверки null![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/13.png)
+<strong>Задание № 14: </strong>
+Использование оператора ? для безопасного доступа к свойствам![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/14.png)
+<strong>Задание № 15: </strong>
+Использование оператора (cascade notion) ![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/15.png)
+<strong>Задание № 16: </strong>
+Использование оператора late![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/16.png)
 <strong>Задание № 17: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/17.png)
 <strong>Задание № 18: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/18.png)
 <strong>Задание № 19: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/19.png)
