@@ -1,6 +1,6 @@
 # dartpract-3
 <strong>Задание № 1: </strong>Создание простого класса
-![] (https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/1.png)
+![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/1.png)
 <strong>Задание № 2: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/2.png)
 <strong>Задание № 3: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/3.png)
 <strong>Задание № 4: </strong>![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/4.png)
