@@ -49,7 +49,8 @@
 ![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/24.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/24.2.jpg)
 <br><strong>Задание № 25: </strong>Конвертер температур</br>
 ![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/25.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/25.2.jpg)
-<br><strong>Задание № 26: </strong>Конвертер валют![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/26.jpg)
+<br><strong>Задание № 26: </strong>Конвертер валют</br>
+![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/26.jpg)
 <br><strong>Задание № 27: </strong>Угадай число</br>
 ![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/27.1.jpg)![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/27.2.jpg)
 <br><strong>Задание № 28: </strong>Генератор паролей</br>
