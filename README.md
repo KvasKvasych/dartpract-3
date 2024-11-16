@@ -1,5 +1,5 @@
 # dartpract-3
-<br><strong>Задание № 1: </strong>Создание простого класса</br>
+<br><strong>Задание № 1: </strong>Создание простого класса</br> 
 ![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/1.png)
 <br><strong>Задание № 2: </strong>Использование методов класса</br>
 ![](https://github.com/kvaskvasych/dartpract-3/raw/main/dartpract3/2.png)
